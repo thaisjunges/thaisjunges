@@ -1,7 +1,7 @@
 # Olá, me chamo Thais 👋
 
-🇧🇷 Brasileira vivendo em 🇬🇧 Bristol  
 💻 Focada em desenvolvimento Back-end  
+🌐 Com experiência em Front-end (HTML, CSS, JavaScript)  
 🚀 Construindo APIs com Node.js e PostgreSQL 
 
 ---
@@ -51,6 +51,15 @@ Conseguir uma oportunidade como desenvolvedora back-end para continuar evoluindo
 
 ---
 
+## 📚 Quero me aprofundar
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
+</div>
+
+---
+
 <div align="center">
   
 <img 
@@ -64,13 +73,3 @@ Conseguir uma oportunidade como desenvolvedora back-end para continuar evoluindo
 />
 
 </div>
-
----
-
-## 📚 Quero me aprofundar
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
-</div>
-
