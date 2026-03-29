@@ -14,7 +14,7 @@ API de autenticação desenvolvida com Node.js, incluindo registro de usuários,
 
 **Tecnologias:** Node.js, Fastify, PostgreSQL, JWT, bcrypt  
 
-🔗 LInk do Projeto
+🔗 https://github.com/thaisjunges/authentication-api-node
 
 ---
 
