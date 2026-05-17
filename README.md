@@ -9,14 +9,22 @@
 ## 🛠️ Projetos
 
 ### 🔐 Authentication API (Node.js + JWT)
-
-API de autenticação desenvolvida com Node.js, incluindo registro de usuários, login com validação de credenciais, criptografia de senha e autenticação via JWT.
+API de autenticação desenvolvida com Node.js, incluindo registro de usuários, 
+login com validação de credenciais, criptografia de senha e autenticação via JWT.  
 
 **Tecnologias:** Node.js, Fastify, PostgreSQL, JWT, bcrypt  
 
-🔗 https://github.com/thaisjunges/authentication-api-node
+🔗 [authentication-api-node](https://github.com/thaisjunges/authentication-api-node)
 
 ---
+
+### ☕ Petshop - Máquina de Banho (Java)
+Sistema de controle de banho desenvolvido em Java,
+aplicando orientação a objetos, atributos e métodos.  
+
+**Tecnologias:** Java  
+
+🔗 [petshop-maquina-banho](https://github.com/thaisjunges/petshop-maquina-banho)
 
 ## 💻 Tecnologias que utilizo
 
@@ -48,6 +56,7 @@ Conseguir uma oportunidade como desenvolvedora back-end para continuar evoluindo
 ## 📫 Contato
 
 - LinkedIn: (https://www.linkedin.com/in/thais-ferreira-junges-78b74b50/)
+- Email: thaisfj.desenvolvimento@gmail.com
 
 ---
 
