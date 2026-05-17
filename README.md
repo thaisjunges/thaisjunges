@@ -24,6 +24,9 @@ aplicando orientação a objetos, atributos e métodos.
 
 **Tecnologias:** Java  
 
+---
+
+
 🔗 [petshop-maquina-banho](https://github.com/thaisjunges/petshop-maquina-banho)
 
 ## 💻 Tecnologias que utilizo
